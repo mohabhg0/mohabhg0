@@ -1,3 +1,8 @@
+<h1>Hey 👋 What's up?</h1>
+<p align="left">My name is Mohab Hamdy and I'm a Software Engineer from Egypt</p>
+
+###
+
 # 💫 About Me:
 🔭 I’m currently working on Node/React/Next/Nest/Vue/Nuxt<br>🌱 I’m currently learning Docker<br>💬 Ask me about Javascript, Typescript<br>⚡ Fun fact idk why i loved programming
 
